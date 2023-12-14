@@ -1,0 +1,24 @@
+name: gsheet_localization
+description: Flutter package to implement localization using Google Sheet
+version: 1.0.0
+homepage: https://google.com
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gsheets: ^0.4.2
+  shared_preferences: ^2.0.15
+  hive: ^2.2.1
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
